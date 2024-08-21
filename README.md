@@ -1,11 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I'm WebMine
 
-<!--
-**WebMine207/WebMine207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+I'm a passionate developer with experience in Core PHP, Javascript, Laravel, React Js. I love building impactful projects that solve real-world problems. My journey in tech started at 2020, and I've been honing my skills ever since.
 
-Here are some ideas to get you started:
+🔭 What I'm Working On
 
-- 🔭 I’m currently working on ...
+Tathastu : Project is about the garbhsanskar Application backend, develope with Laravel Technology and there are 5 diffrent role with individual dashboards. there are many features with specific rolls. On the admin panel various access like Refferal flow commision management, Application Content management, Doctor & trainer accounts data management, etc...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
