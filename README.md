@@ -21,16 +21,16 @@ WebMine Movies: The project about the show worldwide movies listing taking the d
 
 🌱 I’m currently learning React Js technology
 
-🛠️ My Tech Stack
+🛠️ **My Tech Stack**
 Languages: HTML, CSS, JavaScript, PHP
 Frameworks/Libraries: React, Laravel
 Tools & Platforms: Git, AWS, 
 Databases:  MySQL
 
-🏆 GitHub Trophies
+🏆 **GitHub Trophies**
 #YOLO & #Pull Shark
 
-📫 How to Reach Me
+📫 **How to Reach Me**
 Email: mayank82000@gmail.com
 LinkedIn: https://www.linkedin.com/in/mayank207
 Website/Portfolio: https://mayank-prajapati.netlify.app
