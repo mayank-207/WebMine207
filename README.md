@@ -1,21 +1,21 @@
 ## Hi there 👋, I'm WebMine
 
-![Webmine's Profile Views](https://komarev.com/ghpvc/?username=WebMine207&label=Profile%20views&color=0e75b6&style=flat)
+![mayank's Profile Views](https://komarev.com/ghpvc/?username=mayank-207&label=Profile%20views&color=0e75b6&style=flat)
 
-![Webmine's GitHub stats](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+![mayank's GitHub stats](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
 ## A passionate Developer
 
-[![An image of @WebMine207's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sknepali)](https://holopin.io/@sknepali)
+[![An image of @mayank-207's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sknepali)](https://holopin.io/@sknepali)
 
 ## 💻 GitHub Profile Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=WebMine207&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mayank-207&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## About Me
 
 - 💼 I’m currently working as a **Frontend Developer** at [Zuru Tech](https://zuru.tech).
-- 👨‍💻 I contribute to open-source projects, and if you find my work helpful, please consider [sponsoring me](https://github.com/sponsors/WebMine207).
+- 👨‍💻 I contribute to open-source projects, and if you find my work helpful, please consider [sponsoring me](https://github.com/sponsors/mayank-207).
 - 💬 Ask me about **JavaScript, CSS3, HTML, Bootstrap, React, Laravel, PHP, MySql**
 
 ## Connect with me
@@ -23,11 +23,11 @@
 [![LinkedIn](https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://www.linkedin.com/in/mayank207/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/mayank) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mayank.prajapati.__)
 ## 📊 GitHub Stats
 
-![Webmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=WebMine207&theme=tokyonight&show_icons=true)
+![Webmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayank-207&theme=tokyonight&show_icons=true)
 
-![Webmine's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=WebMine207&theme=tokyonight)
+![Webmine's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mayank-207&theme=tokyonight)
 
-![Webmine's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WebMine207&theme=tokyonight)
+![Webmine's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank-207&theme=tokyonight)
 
 🚀 About Me
 I'm a passionate developer with experience in Core PHP, Javascript, Laravel, and React JS. I love building impactful projects that solve real-world problems. My tech journey started in 2020, and I've been honing my skills ever since.
