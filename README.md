@@ -4,10 +4,6 @@
 
 ![mayank's GitHub stats](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
-## A passionate Developer
-
-[![An image of @mayank-207's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sknepali)](https://holopin.io/@sknepali)
-
 ## 💻 GitHub Profile Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mayank-207&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
